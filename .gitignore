@@ -10,7 +10,7 @@ media
 *.bak
 
 MyElections/.env
-
+.DS_Store/
 # If you are using PyCharm #
 # User-specific stuff
 .idea/**/workspace.xml
@@ -26,6 +26,7 @@ MyElections/.env
 .idea/**/contentModel.xml
 
 # Sensitive or high-churn files
+.idea/
 .idea/**/dataSources/
 .idea/**/dataSources.ids
 .idea/**/dataSources.local.xml
